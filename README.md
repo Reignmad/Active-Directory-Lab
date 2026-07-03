@@ -85,22 +85,22 @@ Simulate a real corporate IT environment to prove I can:
 
 | Step | Screenshot |
 | :--- | :--- |
-| **Server Installation** | ![After Install] <img width="2880" height="1346" alt="After installing" src="https://github.com/user-attachments/assets/aa368439-28e2-470e-b032-a12d7f3ac667" />
+| **Server Installation** | <img width="2880" height="1346" alt="After installing" src="https://github.com/user-attachments/assets/aa368439-28e2-470e-b032-a12d7f3ac667" />
  |
-| **Network Config (Static IP)** | ![IP Config] <img width="1026" height="766" alt="checking networking config on cmd" src="https://github.com/user-attachments/assets/0fc3892e-3fe9-4520-b72d-53a326d2eff7" />
+| **Network Config (Static IP)** | <img width="1026" height="766" alt="checking networking config on cmd" src="https://github.com/user-attachments/assets/0fc3892e-3fe9-4520-b72d-53a326d2eff7" />
  |
-| **OUs Created** | ![OUs] <img width="1024" height="762" alt="OUs created" src="https://github.com/user-attachments/assets/6d398900-53e4-4a00-b579-95a8e42a8622" />
+| **OUs Created** | <img width="1024" height="762" alt="OUs created" src="https://github.com/user-attachments/assets/6d398900-53e4-4a00-b579-95a8e42a8622" />
  |
-| **PowerShell User Creation (1,000 users)** | ![PS Script]<img width="1024" height="766" alt="users created in the vm AD" src="https://github.com/user-attachments/assets/17e29a46-6f66-4a50-b5af-513daa496588" />
+| **PowerShell User Creation (1,000 users)** | <img width="1024" height="766" alt="users created in the vm AD" src="https://github.com/user-attachments/assets/17e29a46-6f66-4a50-b5af-513daa496588" />
  |
-| **Active Directory User List** | ![AD Users]<img width="1022" height="778" alt="Created user in the OUs" src="https://github.com/user-attachments/assets/263424bf-d5f9-443c-b8d3-2aa8bfc5649a" />
+| **Active Directory User List** | <img width="1022" height="778" alt="Created user in the OUs" src="https://github.com/user-attachments/assets/263424bf-d5f9-443c-b8d3-2aa8bfc5649a" />
  |
 | **Pre-Windows 2000 Login Names** | ![SAM Column](samaccountname for login on new vm.png) |
-| **Win10 Joined to Domain** | ![Domain Join]<img width="1018" height="766" alt="internal network new vm connected to DC" src="https://github.com/user-attachments/assets/5b38c90d-88c7-4738-be7a-2795d92738df" />
+| **Win10 Joined to Domain** | <img width="1018" height="766" alt="internal network new vm connected to DC" src="https://github.com/user-attachments/assets/5b38c90d-88c7-4738-be7a-2795d92738df" />
  |
-| **Successful Domain Login** | ![Win10 Login]<img width="1014" height="922" alt="evidence that i can log in into users on the AD" src="https://github.com/user-attachments/assets/0502ce35-5d25-4f1c-a8ca-3362ec7a0a06" />
+| **Successful Domain Login** | <img width="1014" height="922" alt="evidence that i can log in into users on the AD" src="https://github.com/user-attachments/assets/0502ce35-5d25-4f1c-a8ca-3362ec7a0a06" />
  |
-| **Bulk Password Reset (995 users)** | ![Bulk Reset]<img width="1022" height="878" alt="reseting password of users cause of error of sign in on new vn" src="https://github.com/user-attachments/assets/5d486918-6beb-4d45-9df2-aa5c07ed8cae" />
+| **Bulk Password Reset (995 users)** | <img width="1022" height="878" alt="reseting password of users cause of error of sign in on new vn" src="https://github.com/user-attachments/assets/5d486918-6beb-4d45-9df2-aa5c07ed8cae" />
  |
 
 ---
