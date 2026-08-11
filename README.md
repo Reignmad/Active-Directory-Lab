@@ -10,7 +10,7 @@ Hands-on infrastructure projects demonstrating enterprise IT operations
 
 ## 📅 Active Directory Home Lab
 
-### Status: 🟢 IN PROGRESS (Day 1 - Setup Phase)
+### (Day 1 - Setup Phase)
 
 **Objective:**  
 Build a fully functional corporate network using free virtualization software. This simulates the exact environment I will manage in a real infrastructure job—domain controllers, user accounts, group policies, and networked workstations.
