@@ -266,22 +266,17 @@ Place the screenshots in the repository's `screenshots/` folder using the filena
 
 | Step | Screenshot |
 |---|---|
-| VirtualBox VM configuration | `screenshots/01-vbox-config.png` |
-| Static IP configuration | `screenshots/02-static-ip.png` |
-| OU structure | `screenshots/03-ous-created.png` |
-| PowerShell user creation | `screenshots/04-powershell-1000-users.png` |
-| User list in Active Directory | `screenshots/05-ad-user-list.png` |
-| Domain join | `screenshots/06-domain-join.png` |
-| Client login | `screenshots/07-domain-login.png` |
-| Bulk password reset | `screenshots/08-bulk-reset-995.png` |
-| DNS baseline check | `screenshots/09-nslookup-success.png` |
-| Ping to domain controller | `screenshots/10-ping-dc.png` |
+| VirtualBox VM configuration | ![VirtualBox VM Configuration](screenshots/01-vbox-config.png) |
+| Static IP configuration | ![Domain Controller Static IP Configuration](screenshots/02-static-ip.png) |
+| OU structure | ![Active Directory Organizational Units](screenshots/03-ous-created.png) |
+| PowerShell user creation | ![PowerShell Bulk User Provisioning (1,000 Users)](screenshots/04-powershell-1000-users.png) |
+| User list in Active Directory | ![Active Directory User List](screenshots/05-ad-user-list.png) |
+| Domain join | ![Windows 10 Client Joined to Domain](screenshots/06-domain-join.png) |
+| Client login | ![Successful Domain User Login](screenshots/07-domain-login.png) |
+| Bulk password reset | ![PowerShell Bulk Password Reset (995 Users)](screenshots/08-bulk-reset-995.png) |
+| DNS baseline check | ![DNS Resolution Success (nslookup)](screenshots/09-nslookup-success.png) |
+| Ping to domain controller | ![Ping Test to Domain Controller](screenshots/10-ping-dc.png) |
 
-To embed a screenshot directly in the README, use this format:
-
-```markdown
-![OU structure](screenshots/03-ous-created.png)
-```
 
 ## 🎯 Key Takeaways
 
@@ -294,9 +289,8 @@ To embed a screenshot directly in the README, use this format:
 
 ## 🔗 Related Projects
 
-- **Microsoft Entra ID Identity Lab** — cloud identity management *(in progress)*
-- **Khumbulekhaya Stokvel Database** — SQL Server, T-SQL, and normalized database design
-- **Plant Co. Sales Dashboard** — Power BI and DAX
+- **Khumbulekhaya Stokvel Database** - SQL Server, T-SQL, and normalized database design
+- **Plant Co. Sales Dashboard** - Power BI and DAX
 
 ---
 
